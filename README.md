@@ -1,5 +1,7 @@
 # Hanaten (放出)
 
+[![Circle CI](https://circleci.com/gh/hisaichi5518/hanaten.svg?style=svg)](https://circleci.com/gh/hisaichi5518/hanaten)
+
 ## Description
 
 Simple A/B Testing for Android.
